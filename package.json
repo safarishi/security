@@ -1,0 +1,26 @@
+{
+  "name": "security",
+  "version": "1.0.0",
+  "description": "https server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/safarishi/security.git"
+  },
+  "keywords": [
+    "https",
+    "security"
+  ],
+  "author": "safarishi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safarishi/security/issues"
+  },
+  "homepage": "https://github.com/safarishi/security#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
